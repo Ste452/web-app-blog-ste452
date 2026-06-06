@@ -1,0 +1,35 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "Learn Bootstrap and SasS to make web app blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ste452/web-app-blog-ste452.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "Steve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ste452/web-app-blog-ste452/issues"
+  },
+  "homepage": "https://github.com/Ste452/web-app-blog-ste452#readme",
+  "devDependencies": {
+    "sass": "^1.100.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.2.0",
+    "autoprefixer": "^10.5.0",
+    "bootstrap": "^5.3.8",
+    "postcss-cli": "^11.0.1"
+  }
+}
