@@ -1,0 +1,23 @@
+@use "custom";
+
+// Importando os componentes
+
+@use "components/animations";
+@use "components/buttons";
+@use "components/mixins";
+@use "components/typography";
+
+// Importando as seções;
+
+@use "sections/navbar";
+@use "sections/intro-section";
+@use "sections/companies";
+@use "sections/faq";
+@use "sections/get-started";
+@use "sections/testionials";
+@use "sections/services";
+@use "sections/footer";
+@use "section/portifolio";
+
+
+
